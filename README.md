@@ -1,5 +1,5 @@
 # Psi4run
-Batch job processor for Psi4 (Windows).  
+Batch job processor for [Psi4](https://psicode.org/) (Windows).  
 For more details on Psi4run, please go to [http://pc-chem-basics.blog.jp/archives/28253902.html](http://pc-chem-basics.blog.jp/archives/28253902.html)  
 <div align="left">
 <img src="Image.png" width="600">
